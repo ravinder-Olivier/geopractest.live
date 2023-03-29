@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/geopractestlive/static/css/main.2838f2ae.css",
+    "main.js": "/geopractestlive/static/js/main.f73f60a0.js",
+    "static/js/666.22462254.chunk.js": "/geopractestlive/static/js/666.22462254.chunk.js",
+    "static/js/417.292be385.chunk.js": "/geopractestlive/static/js/417.292be385.chunk.js",
+    "static/js/254.236ea535.chunk.js": "/geopractestlive/static/js/254.236ea535.chunk.js",
+    "static/js/249.e1016b33.chunk.js": "/geopractestlive/static/js/249.e1016b33.chunk.js",
+    "index.html": "/geopractestlive/index.html",
+    "main.2838f2ae.css.map": "/geopractestlive/static/css/main.2838f2ae.css.map",
+    "main.f73f60a0.js.map": "/geopractestlive/static/js/main.f73f60a0.js.map",
+    "666.22462254.chunk.js.map": "/geopractestlive/static/js/666.22462254.chunk.js.map",
+    "417.292be385.chunk.js.map": "/geopractestlive/static/js/417.292be385.chunk.js.map",
+    "254.236ea535.chunk.js.map": "/geopractestlive/static/js/254.236ea535.chunk.js.map",
+    "249.e1016b33.chunk.js.map": "/geopractestlive/static/js/249.e1016b33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2838f2ae.css",
+    "static/js/main.f73f60a0.js"
+  ]
+}
