@@ -1,5 +1,5 @@
-# Notes about Globle Unlimited
-
+# Notes about Globle Unlimited 
+  -This project will have a deathdate as my domain is going to expire sometime early '24
 
 ## Listed countries
 - Some alternate spellings and previous names are accepted, e.g. Burma for Myanmar.
